@@ -1,21 +1,66 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "add",
+      "budget": "22",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "aa",
+      "budget": "2",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "aa",
+      "budget": "2",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "aa",
+      "budget": "2",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
   "categories": [
-      {
-          "id": 1,
-          "name": "infra"
-      },
-      {
-          "id": 2,
-          "name": "Desenvolvimento"
-      },
-      {
-          "id": 3,
-          "name": "Design"
-      },
-      {
-          "id": 4,
-          "name": "Planejamento"
-      }
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
   ]
 }
