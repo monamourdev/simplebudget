@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "name": "22",
-      "budget": "22",
+      "name": "vinteDoido",
+      "budget": "1300",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "infra"
       },
       "cost": 0,
       "services": [],

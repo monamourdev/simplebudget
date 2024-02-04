@@ -75,7 +75,7 @@ function ProjectForm({handleSubmit, btnText, projectData}) {
 
 
             </div>
-            <SubmitButton text="Criar projeto" />
+            <SubmitButton text={btnText} />
         </form>
     )
 }
