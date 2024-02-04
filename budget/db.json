@@ -21,17 +21,6 @@
       "cost": 0,
       "services": [],
       "id": 9
-    },
-    {
-      "name": "AGORA SIM",
-      "budget": "3333",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 10
     }
   ],
   "categories": [
