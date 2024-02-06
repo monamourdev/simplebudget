@@ -7,7 +7,7 @@
         "id": "1",
         "name": "infra"
       },
-      "cost": 10,
+      "cost": 21,
       "services": [
         {
           "name": "aaa",
@@ -26,6 +26,12 @@
           "cost": "6",
           "description": "vai 10",
           "id": "c37c2be6-700b-48b6-99a3-265ffc826b31"
+        },
+        {
+          "name": "lalala",
+          "cost": "11",
+          "description": "novo proj",
+          "id": "0469a3d8-eb9f-4cf8-bc57-d3055ac82fbf"
         }
       ],
       "id": 8
