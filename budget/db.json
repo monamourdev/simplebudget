@@ -7,8 +7,27 @@
         "id": "1",
         "name": "infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 10,
+      "services": [
+        {
+          "name": "aaa",
+          "cost": "2",
+          "description": "aa",
+          "id": "ed7e8c64-a408-4592-95a1-66ce0d59f042"
+        },
+        {
+          "name": "aaa",
+          "cost": "2",
+          "description": "aa",
+          "id": "ed7e8c64-a408-4592-95a1-66ce0d59f042"
+        },
+        {
+          "name": "camarada1",
+          "cost": "6",
+          "description": "vai 10",
+          "id": "c37c2be6-700b-48b6-99a3-265ffc826b31"
+        }
+      ],
       "id": 8
     },
     {
